@@ -1,3 +1,3 @@
 # Base
-Basic classes that provide helpful functionality for any C# application (Settings-Management, Logging, Factroy, Serialization).
-Uses .NET Standard
+Basic classes and services that provide helpful functionality for any C# application (Settings-Management, Logging, Factory-Functionality, Serialization).
+Uses .NET Standard.
